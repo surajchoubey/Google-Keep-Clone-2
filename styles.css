@@ -1,0 +1,17 @@
+body {
+    background-color: #dadbdb;
+}
+
+#main-nav {
+    background: #262526 !important;
+    margin-bottom: 8px;
+}
+
+.note {
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+
+li {
+    margin: 5px;
+}
